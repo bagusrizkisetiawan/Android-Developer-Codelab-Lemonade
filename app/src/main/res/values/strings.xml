@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lemonade</string>
+    <string-array name="displayTexts">
+        <item>Tap the lemon tree to select a lemon</item>
+        <item>Keep tapping the lemon to squeeze it</item>
+        <item>Tap the lemonade to drink it</item>
+        <item>Tap the empty glass to start again</item>
+    </string-array>
+</resources>
